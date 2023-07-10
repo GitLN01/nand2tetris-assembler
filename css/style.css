@@ -1,0 +1,14 @@
+body {
+    background-image: url('../img/matrix.gif');
+}
+
+.textAreaAssemble.form-control {
+    width: 100%;
+    background-color: black;
+    color: rgb(202, 202, 202);
+    font-size: 1.2em;
+}
+
+a {
+    font-family: sans-serif;
+}
